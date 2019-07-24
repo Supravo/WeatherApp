@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Pradip Sengupta\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\25.1.0\support-annotations-25.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="64cb6b229a8bdfd907bc8dd46839a0053e4c018d">
+        <dex dex="C:\Users\Pradip Sengupta\Desktop\EasyWeather\app\build\intermediates\pre-dexed\debug\support-annotations-25.1.0_60290b26abff6f4368b738966c357475fcca0adb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Pradip Sengupta\Desktop\EasyWeather\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="ca3c7aa31e2726a400a6e552b93cb9f63c9a1e6d">
+        <dex dex="C:\Users\Pradip Sengupta\Desktop\EasyWeather\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-25.1.0_a1ed89478a887e82e12999af3578e950de84dd8b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Pradip Sengupta\Desktop\EasyWeather\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="0a0ef86b7fa568a52bf6214a0326ca1f1d618da7">
+        <dex dex="C:\Users\Pradip Sengupta\Desktop\EasyWeather\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-25.1.0_59724c70c3b66af2e0f8d4f68a69a43493c0c0dd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Pradip Sengupta\Desktop\EasyWeather\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="6fb6ac3e8d3b9013819920d9ea11f3803c4c0033">
+        <dex dex="C:\Users\Pradip Sengupta\Desktop\EasyWeather\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-25.1.0_3ee37ef62d13429bb65538bd8743cafaf9d89db5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Pradip Sengupta\Desktop\EasyWeather\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\Pradip Sengupta\Desktop\EasyWeather\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-25.1.0_5cfd0d7fb54c94a477ebb23709840aa0c65aa291.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Pradip Sengupta\Desktop\EasyWeather\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="e79aa3d9a16f8c9f16377c0608de70a8f31e5d80">
+        <dex dex="C:\Users\Pradip Sengupta\Desktop\EasyWeather\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-25.1.0_26ec9652f5847e4abfc09d702c91f137aea87f79.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Pradip Sengupta\Desktop\EasyWeather\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="1630658fbc2d222b988603c27b4a4249586fbfe7">
+        <dex dex="C:\Users\Pradip Sengupta\Desktop\EasyWeather\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-25.1.0_bc4dca73c0a2de684ff2db032758cccc02ff71d7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Pradip Sengupta\Desktop\EasyWeather\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\25.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="7f2420506110902f033406b25697cf97ee8c38b2">
+        <dex dex="C:\Users\Pradip Sengupta\Desktop\EasyWeather\app\build\intermediates\pre-dexed\debug\com.android.support-cardview-v7-25.1.0_b818d6771e73e2cbd88ed35eae3d143c7affde9b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Pradip Sengupta\Desktop\EasyWeather\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="aee64634871d88a419d59eb743c1258a60f19700">
+        <dex dex="C:\Users\Pradip Sengupta\Desktop\EasyWeather\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-25.1.0_861816f4a49fd88ab6895fb136527d4cf0cdd938.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Pradip Sengupta\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\converter-gson\2.1.0\aa557d71ead91cbf26e0c316a0f593d168303309\converter-gson-2.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="aa557d71ead91cbf26e0c316a0f593d168303309">
+        <dex dex="C:\Users\Pradip Sengupta\Desktop\EasyWeather\app\build\intermediates\pre-dexed\debug\converter-gson-2.1.0_5744f8e233c7796a568b62fcf55e19cd354e20e6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Pradip Sengupta\Desktop\EasyWeather\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="2a53c4f3518116b8c6aee0e477233f0f7da8616f">
+        <dex dex="C:\Users\Pradip Sengupta\Desktop\EasyWeather\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-25.1.0_cdc51043acd1cfba03a7b626c62ae147e997b65b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Pradip Sengupta\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.4.2\ccde00f7ccc77af5a6d5752e2cb21f6d8998289f\okhttp-3.4.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="ccde00f7ccc77af5a6d5752e2cb21f6d8998289f">
+        <dex dex="C:\Users\Pradip Sengupta\Desktop\EasyWeather\app\build\intermediates\pre-dexed\debug\okhttp-3.4.2_b8538ed21b43d58621ca8fcdd0b0a2cd62cecba0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Pradip Sengupta\Desktop\EasyWeather\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="f02263e35e52668dd17b73bf961437e3d562b35f">
+        <dex dex="C:\Users\Pradip Sengupta\Desktop\EasyWeather\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-25.1.0_793a4b06f76720f98a081a0f6fd364fbd5a4a62a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Pradip Sengupta\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.7\751f548c85fa49f330cecbb1875893f971b33c4e\gson-2.7.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="751f548c85fa49f330cecbb1875893f971b33c4e">
+        <dex dex="C:\Users\Pradip Sengupta\Desktop\EasyWeather\app\build\intermediates\pre-dexed\debug\gson-2.7_af74884080dbe2a5f3298af0304426f798d0a9c2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Pradip Sengupta\.gradle\caches\modules-2\files-2.1\com.jakewharton\butterknife\7.0.1\d5d13ea991eab0252e3710e5df3d6a9d4b21d461\butterknife-7.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d5d13ea991eab0252e3710e5df3d6a9d4b21d461">
+        <dex dex="C:\Users\Pradip Sengupta\Desktop\EasyWeather\app\build\intermediates\pre-dexed\debug\butterknife-7.0.1_6b8747e3b4fc188185b18a7a8055d882ce81a030.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Pradip Sengupta\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\retrofit\2.1.0\2de7cd8b95b7021b1d597f049bcb422055119f2c\retrofit-2.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="2de7cd8b95b7021b1d597f049bcb422055119f2c">
+        <dex dex="C:\Users\Pradip Sengupta\Desktop\EasyWeather\app\build\intermediates\pre-dexed\debug\retrofit-2.1.0_4666e69ea00aa652a8ba847d5bc4e0608400f9b4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Pradip Sengupta\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.9.0\f824591a0016efbaeddb8300bee54832a1398cfa\okio-1.9.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="f824591a0016efbaeddb8300bee54832a1398cfa">
+        <dex dex="C:\Users\Pradip Sengupta\Desktop\EasyWeather\app\build\intermediates\pre-dexed\debug\okio-1.9.0_44ce26045387860df19890d97f43c496440db48b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Pradip Sengupta\Desktop\EasyWeather\app\build\intermediates\exploded-aar\com.stcet\library\unspecified\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="617070595c0d19dcf9fa49eaaf553541eaa86d23">
+        <dex dex="C:\Users\Pradip Sengupta\Desktop\EasyWeather\app\build\intermediates\pre-dexed\debug\com.stcet-library-unspecified_a0e1eeace11378852d72bc53710bf2b45f71c780.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Pradip Sengupta\.gradle\caches\modules-2\files-2.1\com.squareup.picasso\picasso\2.5.2\7446d06ec8d4f7ffcc53f1da37c95f200dcb9387\picasso-2.5.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="C:\Users\Pradip Sengupta\Desktop\EasyWeather\app\build\intermediates\pre-dexed\debug\picasso-2.5.2_0328b3f54d99fc721ed182ac177a8b62c9eed176.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Pradip Sengupta\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\logging-interceptor\3.4.2\d99260c62d97beae99ed1f779a35a9bf48c094a6\logging-interceptor-3.4.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d99260c62d97beae99ed1f779a35a9bf48c094a6">
+        <dex dex="C:\Users\Pradip Sengupta\Desktop\EasyWeather\app\build\intermediates\pre-dexed\debug\logging-interceptor-3.4.2_52e983b237bac8ae38601af08a1304785039e685.jar" />
+    </item>
+
+</items>
